@@ -1,0 +1,12 @@
+        p {
+            font-style: italic;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-weight: 100;
+            font-size: 20px;
+            line-height: 30px;
+        }
+        
+        #paragraph3 {
+            color: aqua;
+            background-color: red;
+        }

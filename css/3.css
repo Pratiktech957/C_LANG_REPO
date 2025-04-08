@@ -1,0 +1,48 @@
+#header {
+    border: solid red 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-inline-color: rgb(126, 145, 126);
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(136, 195, 195);
+    width: 400px;
+    height: 450px;
+}
+
+#paragraph1 {
+    border: solid red 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-inline-color: rgb(126, 145, 126);
+    margin: 10px;
+    padding: 10px 20px;
+    ;
+    background-color: rgb(136, 195, 195);
+    width: 500px;
+    height: 500px;
+}
+
+#paragraph2 {
+    border: solid red 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-inline-color: rgb(126, 145, 126);
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(136, 195, 195);
+    width: 500px;
+    height: 500px;
+}
+
+#paragraph3 {
+    border: solid red 5px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-inline-color: rgb(126, 145, 126);
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(136, 195, 195);
+    width: 500px;
+    height: 500px;
+}
